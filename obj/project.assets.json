@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pesho\\Google Drive\\Programming\\GitHub\\DockerTestDeploy\\DockerTest\\DockerTest.csproj",
+      "projectUniqueName": "C:\\Users\\pesho\\Google Drive\\Programming\\GitHub\\DockerTestDeploy\\DockerTest.csproj",
       "projectName": "DockerTest",
-      "projectPath": "C:\\Users\\pesho\\Google Drive\\Programming\\GitHub\\DockerTestDeploy\\DockerTest\\DockerTest.csproj",
+      "projectPath": "C:\\Users\\pesho\\Google Drive\\Programming\\GitHub\\DockerTestDeploy\\DockerTest.csproj",
       "packagesPath": "C:\\Users\\pesho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pesho\\Google Drive\\Programming\\GitHub\\DockerTestDeploy\\DockerTest\\obj\\",
+      "outputPath": "C:\\Users\\pesho\\Google Drive\\Programming\\GitHub\\DockerTestDeploy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
